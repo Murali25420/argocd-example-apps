@@ -17,4 +17,4 @@ spec:
       - image: adijaiswal/boardshack:latest
         name: nginx-test
         ports:
-        - containerPort: 80
+        - containerPort: 8080
