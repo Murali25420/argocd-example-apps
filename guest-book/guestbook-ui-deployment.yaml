@@ -14,7 +14,7 @@ spec:
         app: nginx-test
     spec:
       containers:
-      - image: murali25420/nginx-test:latest
+      - image: murali25420/nginx-test:v2
         name: nginx-test
         ports:
         - containerPort: 80
